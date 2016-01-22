@@ -1,0 +1,19 @@
+{
+    "name": "apn/certification",
+    "description": "Services to get necessary information across the web application",
+    "authors": [
+        {
+            "name": "Tri Nguyen",
+            "email": "tri.nguyen@assuredperformance.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Certification": "src/"
+        }
+    }
+}
